@@ -20,10 +20,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Mathmagician] <a name="about-project"></a>
+# 📖 Mathmagician <a name="about-project"></a>
 
 
-**[Mathmagician]** is a simple calculator and text generator using api 
+**Mathmagician** is a simple calculator and text generator using api 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,23 +48,16 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[component base]**
-- **[Fetch data from api]**
-- **[Routing]**
+- **component base**
+- **Fetch data from api**
+- **Routing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+## 🚀 Live Demo <a name="live-demo"></a>
+- [Live Demo Link](https://m-aminalizadeh.github.io/Mathmagician/)
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
-
-<!-- > Add a link to your deployed project. -->
-
-<!-- - [Live Demo Link](https://google.com) -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -95,9 +88,9 @@ Install this project with:
 
 Example command:
 
-```sh
-  cd mathmagician
-  npm install
+```js
+cd mathmagician
+npm install
 ```
 
 
@@ -108,8 +101,8 @@ To run the project, execute the following command:
 
 Example command:
 
-```sh
-  npm run start
+```js
+npm run start
 ```
 
 ### Deployment
@@ -119,10 +112,9 @@ You can deploy this project using:
 
 Example:
 
-``` js
-  npm run build
+```js
+npm run build
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +123,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **M.Amin Alizadeh**
 
 - GitHub: [@M-AminAlizadeh](https://github.com/M-AminAlizadeh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/m-amin-alizadeh-60a20b1b0/)
@@ -143,9 +135,9 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Connect to api]**
-- [ ] **[Full calculator]**
-- [ ] **[Routing]**
+- **[Connect to api]**
+- **[Full calculator]**
+- **[Routing]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +156,7 @@ Feel free to check the [issues page](https://github.com/M-AminAlizadeh/Mathmagic
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project you can give an ⭐ to it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
