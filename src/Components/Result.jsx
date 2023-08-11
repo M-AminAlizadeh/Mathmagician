@@ -9,7 +9,7 @@ const Result = ({ value }) => (
 );
 
 Result.propTypes = {
-  value: PropTypes.string,
+  value: PropTypes.number,
 };
 
 Result.defaultProps = {
