@@ -1,4 +1,5 @@
-/* eslint-disable */
+import PropTypes from 'prop-types';
+
 const Result = ({ value }) => (
   <>
     <div className="result">
@@ -6,5 +7,13 @@ const Result = ({ value }) => (
     </div>
   </>
 );
+
+Result.propTypes = {
+  value: PropTypes.string,
+};
+
+Result.defaultProps = {
+  value: '',
+};
 
 export default Result;
