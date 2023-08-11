@@ -14,14 +14,18 @@
 }
 
 .container {
+  width: 80%;
+  margin: auto;
   height: 100vh;
   display: flex;
-  justify-content: center;
+  gap: 2rem;
+  justify-content: space-around;
   align-items: center;
 }
 
 .calculator {
   border: 1px solid var(--primary-color);
+  flex:1;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
 }
@@ -60,4 +64,10 @@
 
 .bg-2 {
   background-color: var(--secondary-light-color);
+}
+
+.quote{
+  flex:1;
+  width:300px;
+  height: 300px;
 }
