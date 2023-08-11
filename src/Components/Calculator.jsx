@@ -1,5 +1,6 @@
 import Button from './Button';
 import Result from './Result';
+import calculate from '../Logic/calculate';
 
 const Calculator = () => {
   const btns = ['AC', '+/-', '%', '÷', '7', '8', '9', 'X', '4', '5', '6', '-',
