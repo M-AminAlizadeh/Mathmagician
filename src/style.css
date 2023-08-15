@@ -94,3 +94,14 @@
   text-decoration: none;
   color: blue;
 }
+
+.home {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.home h3,
+.home p {
+  margin: 3rem;
+}
