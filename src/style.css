@@ -28,6 +28,9 @@
   flex: 1;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  width: 50%;
+  margin:auto;
+  margin-top: 3rem;
 }
 
 .result {
@@ -104,4 +107,8 @@
 .home h3,
 .home p {
   margin: 3rem;
+}
+
+.calculator-page{
+  height: 80vh;
 }
