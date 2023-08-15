@@ -28,6 +28,9 @@
   flex: 1;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  width: 50%;
+  margin: auto;
+  margin-top: 3rem;
 }
 
 .result {
@@ -68,6 +71,60 @@
 
 .quote {
   flex: 1;
-  width: 300px;
-  height: 300px;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #ccc;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar ul li {
+  margin-right: 3rem;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: blue;
+}
+
+.home {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.home h3,
+.home p {
+  margin: 3rem;
+}
+
+.calculator-page,
+.quote-page {
+  height: 80vh;
+}
+
+.quote-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.notfound-page {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
