@@ -71,3 +71,26 @@
   width: 300px;
   height: 300px;
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #ccc;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar ul li {
+  margin-right: 3rem;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: blue;
+}
